@@ -2,15 +2,6 @@
 
 一只住在你 Mac 里的 AI 伙伴——它认识你、陪你专注、在合适的时候出现。
 
-![platform](docs/badges/platform.svg)
-![python](docs/badges/python.svg)
-![pyqt5](docs/badges/pyqt5.svg)
-![llm](docs/badges/llm.svg)
-![data](docs/badges/data.svg)
-[![repo](docs/badges/repo.svg)](https://github.com/Passenger-own/tuanzi-companion)
-
-<!-- 演示 GIF 待录制后启用： ![Demo](docs/demo.gif) -->
-
 ---
 
 ## 这不是一个桌宠工具箱
