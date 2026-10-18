@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="20" role="img" aria-label="platform: macOS">
+  <title>platform: macOS</title>
+  <clipPath id="r"><rect width="110" height="20" rx="4" fill="#fff"/></clipPath>
+  <g clip-path="url(#r)">
+    <rect width="60" height="20" fill="#FFC9D9"/>
+    <rect x="60" width="50" height="20" fill="#E75480"/>
+  </g>
+  <g font-family="Verdana,DejaVu Sans,sans-serif" font-size="11" text-anchor="middle">
+    <text x="30" y="14" fill="#B84B66">platform</text>
+    <text x="85" y="14" fill="#ffffff">macOS</text>
+  </g>
+</svg>

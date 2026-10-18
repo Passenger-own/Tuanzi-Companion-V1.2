@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="98" height="20" role="img" aria-label="data: local-only">
+  <title>data: local-only</title>
+  <clipPath id="r"><rect width="98" height="20" rx="4" fill="#fff"/></clipPath>
+  <g clip-path="url(#r)">
+    <rect width="34" height="20" fill="#FFC9D9"/>
+    <rect x="34" width="64" height="20" fill="#E75480"/>
+  </g>
+  <g font-family="Verdana,DejaVu Sans,sans-serif" font-size="11" text-anchor="middle">
+    <text x="17" y="14" fill="#B84B66">data</text>
+    <text x="66" y="14" fill="#ffffff">local-only</text>
+  </g>
+</svg>
